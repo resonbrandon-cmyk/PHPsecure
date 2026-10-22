@@ -1,0 +1,6 @@
+{
+  "name": "PHP VulnLab - Interactive PHP Security & Vulnerability Explorer",
+  "description": "Interactive cybersecurity laboratory exploring PHP vulnerabilities, type juggling, object injection, stream wrappers, command injection, and secure defense patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
